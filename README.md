@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilreddy-2&label=Profile%20views&color=0e75b6&style=flat" alt="akhilreddy-2" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilreddy-2&label=Profile%20views&color=0e75b6&style=flat" alt="akhilreddy-2" /> </p>-->
 
 <p align="left"> <a href="https://twitter.com/akhilreddy_2" target="blank"><img src="https://img.shields.io/twitter/follow/akhilreddy_2?logo=twitter&style=for-the-badge" alt="akhilreddy_2" /></a> </p>
 
